@@ -6,3 +6,6 @@ Additional references:
 * [Getting started with Vite](https://vitejs.dev/guide/)
 * [Tailwind documentation](https://tailwindcss.com/docs/installation)
 
+To Run project
+- VITE_TENANT=companyA npm run dev
+- VITE_TENANT=companyB npm run dev
